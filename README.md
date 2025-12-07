@@ -112,8 +112,6 @@ Focus areas:
 
 </details>
 
----
-
 <details>
   <summary>🇷🇺 RU</summary>
 
