@@ -38,7 +38,6 @@ Focus areas:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
 
-**Experience:**
 - Designed and developed scalable **REST APIs**, backend services, and integrations.  
 - Built structured backend logic using SQLAlchemy ORM and clean architecture.  
 - Designed relational database schemas (PostgreSQL / MySQL).  
@@ -68,7 +67,6 @@ Focus areas:
 ![PowerDNS](https://img.shields.io/badge/-PowerDNS-FFCC00?logo=powerdns&logoColor=black)
 ![DNSdist](https://img.shields.io/badge/-DNSdist-0A74D4?logo=powerdns)
 
-**Experience:**
 - Built high-availability **DNS infrastructure** using PowerDNS + DNSdist.  
 - Implemented automated **IP failover**, routing logic, and traffic control.  
 - Configured HAProxy and NGINX as reverse proxies and load balancers.  
@@ -154,7 +152,6 @@ Focus areas:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
 
-**Что делал:**
 - Создавал масштабируемые REST API и backend-сервисы.  
 - Работал с SQLAlchemy и проектировал структуры БД.  
 - Оптимизировал производительность и поддерживал кодовую базу.
@@ -183,7 +180,6 @@ Focus areas:
 ![PowerDNS](https://img.shields.io/badge/-PowerDNS-FFCC00?logo=powerdns&logoColor=black)
 ![DNSdist](https://img.shields.io/badge/-DNSdist-0A74D4?logo=powerdns)
 
-**Что делал:**
 - Проектировал отказоустойчивую DNS-инфраструктуру на PowerDNS + DNSdist.  
 - Настраивал автоматическую смену IP и гибкую маршрутизацию.  
 - Работал с NGINX и HAProxy как с обратными прокси и балансировщиками.  
