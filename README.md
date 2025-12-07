@@ -11,7 +11,6 @@
 ---
 
 ## 🛠 Infrastructure, Networking & High-Load Architecture  
-*(core, complex, and niche competencies first)*
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu)
 ![NGINX](https://img.shields.io/badge/-Nginx-009639?logo=nginx)
