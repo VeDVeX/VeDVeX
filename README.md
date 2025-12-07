@@ -5,9 +5,7 @@
 ---
 
 <details open>
-  <summary>🇬🇧 English Version</summary>
-
-# 🇬🇧 English Version
+  <summary>🇬🇧 EN </summary>
 
 ## 🧩 Core Competencies
 
@@ -119,9 +117,7 @@ Focus areas:
 ---
 
 <details>
-  <summary>🇷🇺 Русская версия</summary>
-
-# 🇷🇺 Русская версия
+  <summary>🇷🇺 RU</summary>
 
 ## 🧩 Основные компетенции
 
