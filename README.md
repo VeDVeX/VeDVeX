@@ -46,7 +46,7 @@ Focus areas:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=blac)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=black)
 
 - Built fast dashboards and internal admin panels with React + Tailwind.  
@@ -59,7 +59,7 @@ Focus areas:
 
 ![PowerDNS](https://img.shields.io/badge/-PowerDNS-FFCC00?logo=powerdns&logoColor=black)
 ![HAProxy](https://img.shields.io/badge/-HAProxy-1068B3?logo=haproxy&logoColor=black)
-![NGINX](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=black)
+![NGINX](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
 ![DNSdist](https://img.shields.io/badge/-DNSdist-0A74D4?logo=powerdns&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
@@ -92,7 +92,7 @@ Focus areas:
 
 ## 💻 Desktop Development
 
-![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp)
+![C"#"](https://img.shields.io/badge/-C%23-512BD4?logo=csharp)
 ![Windows Forms](https://img.shields.io/badge/-WindowsForms-0066B8?logo=windows)
 
 - Created desktop utilities and custom workflow tools.
@@ -138,11 +138,11 @@ Focus areas:
 
 ## 🐍 Python и Backend-разработка
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 - Создавал масштабируемые REST API и backend-сервисы.  
 - Работал с SQLAlchemy и проектировал структуры БД.  
@@ -153,10 +153,10 @@ Focus areas:
 ## 🌐 Frontend (админ-панели и внутренние интерфейсы)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=black)
 
 - Создавал быстрые интерфейсы и админ-панели на React + Tailwind.  
 - Делал лёгкие фронтенды на Vite.  
@@ -166,11 +166,11 @@ Focus areas:
 
 ## 🛠 DevOps, инфраструктура и сети
 
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu)
-![NGINX](https://img.shields.io/badge/-Nginx-009639?logo=nginx)
-![HAProxy](https://img.shields.io/badge/-HAProxy-1068B3?logo=haproxy)
 ![PowerDNS](https://img.shields.io/badge/-PowerDNS-FFCC00?logo=powerdns&logoColor=black)
-![DNSdist](https://img.shields.io/badge/-DNSdist-0A74D4?logo=powerdns)
+![HAProxy](https://img.shields.io/badge/-HAProxy-1068B3?logo=haproxy&logoColor=black)
+![NGINX](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
+![DNSdist](https://img.shields.io/badge/-DNSdist-0A74D4?logo=powerdns&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 - Проектировал отказоустойчивую DNS-инфраструктуру на PowerDNS + DNSdist.  
 - Настраивал автоматическую смену IP и гибкую маршрутизацию.  
@@ -181,7 +181,7 @@ Focus areas:
 
 ## 📱 Telegram Mini-Apps
 
-![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?logo=telegram)
+![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?logo=telegram&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/-Webhooks-000000)
 
 - Разрабатывал полноценные мини-приложения Telegram.  
@@ -192,7 +192,7 @@ Focus areas:
 
 ## 🤖 Автоматизация и парсинг
 
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 
 - Создавал системы автоматизации и парсеры.  
 - Разрабатывал uptime-роботов и сервисы проверки состояния.
@@ -201,7 +201,7 @@ Focus areas:
 
 ## 💻 Desktop-разработка
 
-![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp)
+![C"#"](https://img.shields.io/badge/-C%23-512BD4?logo=csharp)
 ![Windows Forms](https://img.shields.io/badge/-WindowsForms-0066B8?logo=windows)
 
 - Писал настольные утилиты и инструменты.
@@ -210,9 +210,9 @@ Focus areas:
 
 ## 🔍 Тестирование и анализ трафика
 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-00CC00)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1F9AF1?logo=wireshark)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1F9AF1?logo=wireshark&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 - Тестировал API, находил ошибки в интеграциях и логике запросов.
 - Проводил анализ сетевого трафика и протоколов через Fiddler и Wireshark.
