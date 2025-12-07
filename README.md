@@ -9,6 +9,19 @@
 
 # 🇬🇧 English Version
 
+## 📦 Key Competencies
+
+My expertise spans **backend development**, **DevOps**, **network infrastructure**, **frontend**, **automation**, and **testing**.  
+I build complete solutions **end-to-end**: architecture → backend → UI → integrations → deployment.
+
+I focus on:
+- Complex backend and architectural tasks  
+- High-availability infrastructure and networking  
+- Clean and efficient interface development  
+- Reliable testing, monitoring and system analysis  
+
+---
+
 ## 🚀 Tech Stack & Experience
 
 ---
@@ -99,19 +112,6 @@
 - Performed API testing, debugging and network analysis.  
 - Used Fiddler and Wireshark for deep inspection of request flows.
 
----
-
-## 📦 Final Competencies
-
-My expertise spans **backend development**, **DevOps**, **network infrastructure**, **frontend**, **automation**, and **testing**.  
-I build complete solutions **end-to-end**: architecture → backend → UI → integrations → deployment.
-
-I focus on:
-- Complex backend and architectural tasks  
-- High-availability infrastructure and networking  
-- Clean and efficient interface development  
-- Reliable testing, monitoring and system analysis  
-
 </details>
 
 ---
@@ -120,6 +120,19 @@ I focus on:
   <summary>🇷🇺 Русская версия</summary>
 
 # 🇷🇺 Русская версия
+
+## 📦 Итоговые компетенции
+
+Мой стек охватывает **backend**, **DevOps**, **сетевую инфраструктуру**, **frontend**, **автоматизацию** и **тестирование**.  
+Создаю системы **«под ключ»**: архитектура → backend → UI → интеграции → деплой.
+
+Фокус:
+- Сложные backend-и и архитектурные решения  
+- Высокодоступная инфраструктура  
+- Чистые и быстрые интерфейсы  
+- Надёжное тестирование, мониторинг и анализ систем  
+
+---
 
 ## 🚀 Технологии и опыт
 
@@ -206,18 +219,5 @@ I focus on:
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1F9AF1?logo=wireshark)
 
 - Проверял API, анализировал трафик, выявлял интеграционные ошибки.
-
----
-
-## 📦 Итоговые компетенции
-
-Мой стек охватывает **backend**, **DevOps**, **сетевую инфраструктуру**, **frontend**, **автоматизацию** и **тестирование**.  
-Создаю системы **«под ключ»**: архитектура → backend → UI → интеграции → деплой.
-
-Фокус:
-- Сложные backend-и и архитектурные решения  
-- Высокодоступная инфраструктура  
-- Чистые и быстрые интерфейсы  
-- Надёжное тестирование, мониторинг и анализ систем  
 
 </details>
