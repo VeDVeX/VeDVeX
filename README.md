@@ -1,8 +1,11 @@
 # 🌐 My Profile / Мой профиль
 
-**Languages:** [EN](#english-version) | [RU](#русская-версия)
+> Click to switch language / Нажми, чтобы сменить язык
 
 ---
+
+<details open>
+  <summary>🇬🇧 English Version</summary>
 
 # 🇬🇧 English Version
 
@@ -11,6 +14,7 @@
 ---
 
 ## 🛠 Infrastructure, Networking & High-Load Architecture  
+*(core, complex, and niche competencies)*
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu)
 ![NGINX](https://img.shields.io/badge/-Nginx-009639?logo=nginx)
@@ -20,9 +24,9 @@
 
 **Experience:**
 - Designed fault-tolerant **server and DNS architectures** using PowerDNS + DNSdist.  
-- Deployed **automatic IP switching** and routing logic for stability and uptime.  
-- Configured **HAProxy** and **NGINX** for reverse-proxying, balancing and traffic control.  
-- Managed Linux-based infrastructure and automated service deployment on **Ubuntu**.
+- Deployed **automatic IP switching** and routing logic for improved uptime.  
+- Configured **HAProxy** and **NGINX** for reverse-proxying, load balancing and traffic control.  
+- Managed Linux-based infrastructure and automated deployment on **Ubuntu**.
 
 ---
 
@@ -36,21 +40,21 @@
 
 **Experience:**
 - Developed scalable **REST APIs** and backend services.  
-- Built structured backend logic with **SQLAlchemy ORM**.  
-- Designed relational databases using PostgreSQL and MySQL.  
-- Optimized performance, handled migrations, and maintained backend codebases.
+- Structured backend logic with **SQLAlchemy ORM** and clean architecture patterns.  
+- Designed relational databases on PostgreSQL and MySQL.  
+- Optimized backend performance, handled migrations, and maintained codebases.
 
 ---
 
-## 📱 Telegram Mini-Apps (Complex & in demand)
+## 📱 Telegram Mini-Apps (Complex & highly in-demand)
 
 ![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?logo=telegram)
 ![Webhooks](https://img.shields.io/badge/-Webhooks-000000)
 
 **Experience:**
-- Developed full Telegram **Mini-Apps** with frontend + backend connectivity.  
-- Integrated secure webhook handling and business logic.  
-- Built internal management tools and user flows inside Telegram.
+- Built full-featured Telegram **Mini-Apps** combining backend and frontend technologies.  
+- Implemented secure webhooks, session logic, and integrations.  
+- Created internal management tools and user flows inside Telegram.
 
 ---
 
@@ -62,9 +66,9 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss)
 
-- Built responsive and high-speed **admin dashboards**.  
-- Created clean UI systems using **React + Tailwind**.  
-- Integrated dynamic interfaces with backend APIs.
+- Built responsive and fast **admin dashboards** with React + Tailwind.  
+- Created UI systems optimized for usability and maintainability.  
+- Integrated dynamic interfaces with backend services.
 
 ---
 
@@ -72,17 +76,17 @@
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium)
 
-- Built parsers and automation scripts for various online platforms.  
-- Created uptime-monitoring robots and service-checking systems.
+- Developed automation scripts and parsers for online platforms.  
+- Built uptime-monitoring systems and service-check tools.
 
 ---
 
-## 💻 Desktop Development (C#)
+## 💻 Desktop Development (C# + WinForms)
 
 ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp)
 ![Windows Forms](https://img.shields.io/badge/-WindowsForms-0066B8?logo=windows)
 
-- Developed desktop utilities for internal workflows.
+- Created desktop utilities and automation tools.
 
 ---
 
@@ -92,25 +96,28 @@
 ![Fiddler](https://img.shields.io/badge/-Fiddler-00CC00)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1F9AF1?logo=wireshark)
 
-- Performed API testing, traffic inspection, and debugging.  
-- Used Fiddler and Wireshark to analyze network flows and integration issues.
+- Performed API testing, debugging and network analysis.  
+- Used Fiddler and Wireshark for deep inspection of request flows.
 
 ---
 
 ## 📦 Final Competencies
 
-My skill set covers **backend**, **networking**, **infrastructure**, **frontend**, and **testing**.  
-I build complete systems **end-to-end**: architecture → backend → UI → automation → deployment.
+My expertise spans **backend development**, **DevOps**, **network infrastructure**, **frontend**, **automation**, and **testing**.  
+I build complete solutions **end-to-end**: architecture → backend → UI → integrations → deployment.
 
 I focus on:
 - Complex backend and architectural tasks  
-- High-availability network infrastructure  
-- Clean frontend interfaces  
-- Reliable testing and system analysis  
+- High-availability infrastructure and networking  
+- Clean and efficient interface development  
+- Reliable testing, monitoring and system analysis  
+
+</details>
 
 ---
 
----
+<details>
+  <summary>🇷🇺 Русская версия</summary>
 
 # 🇷🇺 Русская версия
 
@@ -131,7 +138,7 @@ I focus on:
 - Проектировал отказоустойчивую **DNS-архитектуру** на PowerDNS + DNSdist.  
 - Настраивал **автоматическую смену IP** и гибкую маршрутизацию.  
 - Конфигурировал **HAProxy** и **NGINX** как reverse-proxy для балансировки и стабильности.  
-- Управлял инфраструктурой на базе **Ubuntu**, настраивал сервисы и деплой.
+- Управлял инфраструктурой на базе **Ubuntu**, занимался настройкой и деплоем.
 
 ---
 
@@ -146,7 +153,7 @@ I focus on:
 **Что делал:**
 - Создавал масштабируемые **REST API** и backend-сервисы.  
 - Работал с SQLAlchemy ORM, проектировал структуры БД.  
-- Оптимизировал производительность и поддерживал backend-кодовую базу.
+- Поддерживал backend-кодовую базу, оптимизировал производительность.
 
 ---
 
@@ -156,8 +163,8 @@ I focus on:
 ![Webhooks](https://img.shields.io/badge/-Webhooks-000000)
 
 - Разрабатывал полноценные **мини-приложения Telegram** (frontend + backend).  
-- Настраивал вебхуки, авторизацию и бизнес-логику внутри Telegram.  
-- Делал удобные интерфейсы и внутренние инструменты.
+- Настраивал вебхуки, авторизацию и бизнес-логику.  
+- Создавал внутренние инструменты и удобные пользовательские потоки.
 
 ---
 
@@ -169,8 +176,8 @@ I focus on:
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss)
 
-- Создавал быстрые **админ-панели** и UI-инструменты на React + Tailwind.  
-- Интегрировал frontend с backend-API.
+- Создавал быстрые **админ-панели** и внутренние интерфейсы.  
+- Интегрировал frontend с backend-сервисами.
 
 ---
 
@@ -178,8 +185,8 @@ I focus on:
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium)
 
-- Создавал парсеры и системы автоматизации.  
-- Делал uptime-роботов и сервисы проверки состояния.
+- Создавал системы автоматизации и парсеры.  
+- Разрабатывал uptime-роботов и сервисы проверки состояния.
 
 ---
 
@@ -188,7 +195,7 @@ I focus on:
 ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp)
 ![Windows Forms](https://img.shields.io/badge/-WindowsForms-0066B8?logo=windows)
 
-- Разрабатывал настольные инструменты и утилиты.
+- Писал настольные инструменты и утилиты.
 
 ---
 
@@ -198,20 +205,19 @@ I focus on:
 ![Fiddler](https://img.shields.io/badge/-Fiddler-00CC00)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1F9AF1?logo=wireshark)
 
-- Тестировал API, анализировал трафик, выявлял ошибки интеграции.
+- Проверял API, анализировал трафик, выявлял интеграционные ошибки.
 
 ---
 
 ## 📦 Итоговые компетенции
 
-Мой стек охватывает **backend**, **сетевую инфраструктуру**, **frontend**, **автоматизацию** и **тестирование**.  
+Мой стек охватывает **backend**, **DevOps**, **сетевую инфраструктуру**, **frontend**, **автоматизацию** и **тестирование**.  
 Создаю системы **«под ключ»**: архитектура → backend → UI → интеграции → деплой.
 
 Фокус:
 - Сложные backend-и и архитектурные решения  
 - Высокодоступная инфраструктура  
 - Чистые и быстрые интерфейсы  
-- Надёжное тестирование и анализ систем  
+- Надёжное тестирование, мониторинг и анализ систем  
 
----
-
+</details>
