@@ -9,16 +9,20 @@
 
 # 🇬🇧 English Version
 
-## 📦 Key Competencies
+## 📦 Core Competencies
 
-My expertise spans **backend development**, **DevOps**, **network infrastructure**, **frontend**, **automation**, and **testing**.  
-I build complete solutions **end-to-end**: architecture → backend → UI → integrations → deployment.
+I specialize in **backend engineering**, **Python development**, **DevOps practices**, **network infrastructure**,  
+**frontend for internal tools**, and **automation**.
 
-I focus on:
-- Complex backend and architectural tasks  
-- High-availability infrastructure and networking  
-- Clean and efficient interface development  
-- Reliable testing, monitoring and system analysis  
+I build complete systems **end-to-end**:  
+architecture → backend → UI → integrations → deployment → monitoring.
+
+Focus areas:
+- Backend architecture and service design  
+- High-availability and distributed infrastructure  
+- Clean and efficient user interfaces  
+- DevOps workflows and automation  
+- Network analysis, testing and debugging  
 
 ---
 
@@ -26,24 +30,7 @@ I focus on:
 
 ---
 
-## 🛠 Infrastructure, Networking & High-Load Architecture  
-*(core, complex, and niche competencies)*
-
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu)
-![NGINX](https://img.shields.io/badge/-Nginx-009639?logo=nginx)
-![HAProxy](https://img.shields.io/badge/-HAProxy-1068B3?logo=haproxy)
-![PowerDNS](https://img.shields.io/badge/-PowerDNS-FFCC00?logo=powerdns&logoColor=black)
-![DNSdist](https://img.shields.io/badge/-DNSdist-0A74D4?logo=powerdns)
-
-**Experience:**
-- Designed fault-tolerant **server and DNS architectures** using PowerDNS + DNSdist.  
-- Deployed **automatic IP switching** and routing logic for improved uptime.  
-- Configured **HAProxy** and **NGINX** for reverse-proxying, load balancing and traffic control.  
-- Managed Linux-based infrastructure and automated deployment on **Ubuntu**.
-
----
-
-## 🐍 Backend Development (Primary Expertise)
+## 🐍 Python & Backend Development
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
@@ -52,26 +39,14 @@ I focus on:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
 
 **Experience:**
-- Developed scalable **REST APIs** and backend services.  
-- Structured backend logic with **SQLAlchemy ORM** and clean architecture patterns.  
-- Designed relational databases on PostgreSQL and MySQL.  
-- Optimized backend performance, handled migrations, and maintained codebases.
+- Designed and developed scalable **REST APIs**, backend services, and integrations.  
+- Built structured backend logic using SQLAlchemy ORM and clean architecture.  
+- Designed relational database schemas (PostgreSQL / MySQL).  
+- Performance tuning, migrations, refactoring, and long-term codebase maintenance.
 
 ---
 
-## 📱 Telegram Mini-Apps (Complex & highly in-demand)
-
-![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?logo=telegram)
-![Webhooks](https://img.shields.io/badge/-Webhooks-000000)
-
-**Experience:**
-- Built full-featured Telegram **Mini-Apps** combining backend and frontend technologies.  
-- Implemented secure webhooks, session logic, and integrations.  
-- Created internal management tools and user flows inside Telegram.
-
----
-
-## 🌐 Frontend Development (Dashboards & UI Systems)
+## 🌐 Frontend (Dashboards & Internal Tools)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
@@ -79,27 +54,54 @@ I focus on:
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss)
 
-- Built responsive and fast **admin dashboards** with React + Tailwind.  
-- Created UI systems optimized for usability and maintainability.  
-- Integrated dynamic interfaces with backend services.
+- Built fast dashboards and internal admin panels with React + Tailwind.  
+- Developed lightweight UI systems on Vite.  
+- Integrated frontend with backend APIs.
 
 ---
 
-## 🤖 Automation, Parsing & Tools
+## 🛠 DevOps, Infrastructure & Networking
+
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu)
+![NGINX](https://img.shields.io/badge/-Nginx-009639?logo=nginx)
+![HAProxy](https://img.shields.io/badge/-HAProxy-1068B3?logo=haproxy)
+![PowerDNS](https://img.shields.io/badge/-PowerDNS-FFCC00?logo=powerdns&logoColor=black)
+![DNSdist](https://img.shields.io/badge/-DNSdist-0A74D4?logo=powerdns)
+
+**Experience:**
+- Built high-availability **DNS infrastructure** using PowerDNS + DNSdist.  
+- Implemented automated **IP failover**, routing logic, and traffic control.  
+- Configured HAProxy and NGINX as reverse proxies and load balancers.  
+- Managed Linux servers (Ubuntu) and deployment workflows.
+
+---
+
+## 📱 Telegram Mini-Apps
+
+![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?logo=telegram)
+![Webhooks](https://img.shields.io/badge/-Webhooks-000000)
+
+- Built full Telegram **Mini-Apps** combining backend and frontend logic.  
+- Implemented secure webhooks and session handling.  
+- Created internal tools and business workflows inside Telegram.
+
+---
+
+## 🤖 Automation & Parsing
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium)
 
-- Developed automation scripts and parsers for online platforms.  
-- Built uptime-monitoring systems and service-check tools.
+- Developed automation scripts and platform-specific parsers.  
+- Built uptime-monitoring bots and service checkers.
 
 ---
 
-## 💻 Desktop Development (C# + WinForms)
+## 💻 Desktop Development
 
 ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp)
 ![Windows Forms](https://img.shields.io/badge/-WindowsForms-0066B8?logo=windows)
 
-- Created desktop utilities and automation tools.
+- Created desktop utilities and custom workflow tools.
 
 ---
 
@@ -109,8 +111,8 @@ I focus on:
 ![Fiddler](https://img.shields.io/badge/-Fiddler-00CC00)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1F9AF1?logo=wireshark)
 
-- Performed API testing, debugging and network analysis.  
-- Used Fiddler and Wireshark for deep inspection of request flows.
+- API testing, debugging, and request flow analysis.  
+- Traffic inspection using Fiddler and Wireshark.
 
 </details>
 
@@ -121,16 +123,20 @@ I focus on:
 
 # 🇷🇺 Русская версия
 
-## 📦 Итоговые компетенции
+## 📦 Основные компетенции
 
-Мой стек охватывает **backend**, **DevOps**, **сетевую инфраструктуру**, **frontend**, **автоматизацию** и **тестирование**.  
-Создаю системы **«под ключ»**: архитектура → backend → UI → интеграции → деплой.
+Моя специализация — **backend-разработка**, **Python**, **DevOps**, **сетевые технологии**,  
+**frontend для внутренних инструментов**, а также **автоматизация и тестирование**.
+
+Я создаю системы **полного цикла**:  
+архитектура → backend → UI → интеграции → деплой → мониторинг.
 
 Фокус:
-- Сложные backend-и и архитектурные решения  
-- Высокодоступная инфраструктура  
-- Чистые и быстрые интерфейсы  
-- Надёжное тестирование, мониторинг и анализ систем  
+- Проектирование backend-архитектуры  
+- Высокодоступная инфраструктура и сетевые решения  
+- Удобные и быстрые интерфейсы  
+- DevOps-процессы и автоматизация  
+- Тестирование, мониторинг и анализ трафика  
 
 ---
 
@@ -138,24 +144,7 @@ I focus on:
 
 ---
 
-## 🛠 Инфраструктура, сети и высоконагруженная архитектура  
-*(главные, сложные и нишевые компетенции)*
-
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu)
-![NGINX](https://img.shields.io/badge/-Nginx-009639?logo=nginx)
-![HAProxy](https://img.shields.io/badge/-HAProxy-1068B3?logo=haproxy)
-![PowerDNS](https://img.shields.io/badge/-PowerDNS-FFCC00?logo=powerdns&logoColor=black)
-![DNSdist](https://img.shields.io/badge/-DNSdist-0A74D4?logo=powerdns)
-
-**Что делал:**
-- Проектировал отказоустойчивую **DNS-архитектуру** на PowerDNS + DNSdist.  
-- Настраивал **автоматическую смену IP** и гибкую маршрутизацию.  
-- Конфигурировал **HAProxy** и **NGINX** как reverse-proxy для балансировки и стабильности.  
-- Управлял инфраструктурой на базе **Ubuntu**, занимался настройкой и деплоем.
-
----
-
-## 🐍 Backend-разработка (ключевая компетенция)
+## 🐍 Python и Backend-разработка
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
@@ -164,24 +153,13 @@ I focus on:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
 
 **Что делал:**
-- Создавал масштабируемые **REST API** и backend-сервисы.  
-- Работал с SQLAlchemy ORM, проектировал структуры БД.  
-- Поддерживал backend-кодовую базу, оптимизировал производительность.
+- Создавал масштабируемые REST API и backend-сервисы.  
+- Работал с SQLAlchemy и проектировал структуры БД.  
+- Оптимизировал производительность и поддерживал кодовую базу.
 
 ---
 
-## 📱 Telegram Mini-Apps (важная и сложная технология)
-
-![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?logo=telegram)
-![Webhooks](https://img.shields.io/badge/-Webhooks-000000)
-
-- Разрабатывал полноценные **мини-приложения Telegram** (frontend + backend).  
-- Настраивал вебхуки, авторизацию и бизнес-логику.  
-- Создавал внутренние инструменты и удобные пользовательские потоки.
-
----
-
-## 🌐 Frontend-разработка
+## 🌐 Frontend (админ-панели и внутренние интерфейсы)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
@@ -189,12 +167,40 @@ I focus on:
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss)
 
-- Создавал быстрые **админ-панели** и внутренние интерфейсы.  
-- Интегрировал frontend с backend-сервисами.
+- Создавал быстрые интерфейсы и админ-панели на React + Tailwind.  
+- Делал лёгкие фронтенды на Vite.  
+- Интегрировал UI с backend-логикой.
 
 ---
 
-## 🤖 Автоматизация, парсинг и инструменты
+## 🛠 DevOps, инфраструктура и сети
+
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu)
+![NGINX](https://img.shields.io/badge/-Nginx-009639?logo=nginx)
+![HAProxy](https://img.shields.io/badge/-HAProxy-1068B3?logo=haproxy)
+![PowerDNS](https://img.shields.io/badge/-PowerDNS-FFCC00?logo=powerdns&logoColor=black)
+![DNSdist](https://img.shields.io/badge/-DNSdist-0A74D4?logo=powerdns)
+
+**Что делал:**
+- Проектировал отказоустойчивую DNS-инфраструктуру на PowerDNS + DNSdist.  
+- Настраивал автоматическую смену IP и гибкую маршрутизацию.  
+- Работал с NGINX и HAProxy как с обратными прокси и балансировщиками.  
+- Управлял серверами на Ubuntu и процессами деплоя.
+
+---
+
+## 📱 Telegram Mini-Apps
+
+![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?logo=telegram)
+![Webhooks](https://img.shields.io/badge/-Webhooks-000000)
+
+- Разрабатывал полноценные мини-приложения Telegram.  
+- Настраивал вебхуки, авторизацию и бизнес-логику.  
+- Делал интерфейсы и внутренние инструменты.
+
+---
+
+## 🤖 Автоматизация и парсинг
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium)
 
@@ -203,12 +209,12 @@ I focus on:
 
 ---
 
-## 💻 Desktop-разработка (C# + WinForms)
+## 💻 Desktop-разработка
 
 ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp)
 ![Windows Forms](https://img.shields.io/badge/-WindowsForms-0066B8?logo=windows)
 
-- Писал настольные инструменты и утилиты.
+- Писал настольные утилиты и инструменты.
 
 ---
 
@@ -218,6 +224,6 @@ I focus on:
 ![Fiddler](https://img.shields.io/badge/-Fiddler-00CC00)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1F9AF1?logo=wireshark)
 
-- Проверял API, анализировал трафик, выявлял интеграционные ошибки.
+- Тестировал API, анализировал трафик и интеграции.
 
 </details>
