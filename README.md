@@ -111,8 +111,10 @@ Focus areas:
 ![Fiddler](https://img.shields.io/badge/-Fiddler-00CC00)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1F9AF1?logo=wireshark)
 
-- API testing, debugging, and request flow analysis.  
-- Traffic inspection using Fiddler and Wireshark.
+- API testing, debugging, and request flow analysis.
+- Traffic inspection and protocol-level diagnostics using Fiddler and Wireshark.
+- Conducted security-oriented checks, identifying weak points in integrations and data flows.
+- Analyzed anomalous and low-quality traffic patterns to detect irregular behavior and system misuse.
 
 </details>
 
@@ -224,6 +226,9 @@ Focus areas:
 ![Fiddler](https://img.shields.io/badge/-Fiddler-00CC00)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1F9AF1?logo=wireshark)
 
-- Тестировал API, анализировал трафик и интеграции.
+- Тестировал API, находил ошибки в интеграциях и логике запросов.
+- Проводил анализ сетевого трафика и протоколов через Fiddler и Wireshark.
+- Выполнял проверки безопасности и оценку устойчивости сервисов.
+- Анализировал аномалии и подозрительные типы трафика, выявлял некорректные или нестандартные паттерны поведения.
 
 </details>
