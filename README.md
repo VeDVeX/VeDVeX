@@ -28,7 +28,7 @@ Focus areas:
 
 ## 🐍 Python & Backend Development
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
