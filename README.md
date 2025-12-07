@@ -31,8 +31,8 @@ Focus areas:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 - Designed and developed scalable **REST APIs**, backend services, and integrations.  
 - Built structured backend logic using SQLAlchemy ORM and clean architecture.  
@@ -44,10 +44,10 @@ Focus areas:
 ## 🌐 Frontend (Dashboards & Internal Tools)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=blac)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=black)
 
 - Built fast dashboards and internal admin panels with React + Tailwind.  
 - Developed lightweight UI systems on Vite.  
@@ -57,11 +57,11 @@ Focus areas:
 
 ## 🛠 DevOps, Infrastructure & Networking
 
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu)
-![NGINX](https://img.shields.io/badge/-Nginx-009639?logo=nginx)
-![HAProxy](https://img.shields.io/badge/-HAProxy-1068B3?logo=haproxy)
 ![PowerDNS](https://img.shields.io/badge/-PowerDNS-FFCC00?logo=powerdns&logoColor=black)
-![DNSdist](https://img.shields.io/badge/-DNSdist-0A74D4?logo=powerdns)
+![HAProxy](https://img.shields.io/badge/-HAProxy-1068B3?logo=haproxy&logoColor=black)
+![NGINX](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=black)
+![DNSdist](https://img.shields.io/badge/-DNSdist-0A74D4?logo=powerdns&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 - Built high-availability **DNS infrastructure** using PowerDNS + DNSdist.  
 - Implemented automated **IP failover**, routing logic, and traffic control.  
@@ -72,7 +72,7 @@ Focus areas:
 
 ## 📱 Telegram Mini-Apps
 
-![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?logo=telegram)
+![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?logo=telegram&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/-Webhooks-000000)
 
 - Built full Telegram **Mini-Apps** combining backend and frontend logic.  
@@ -83,7 +83,7 @@ Focus areas:
 
 ## 🤖 Automation & Parsing
 
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 
 - Developed automation scripts and platform-specific parsers.  
 - Built uptime-monitoring bots and service checkers.
@@ -101,9 +101,9 @@ Focus areas:
 
 ## 🔍 Testing & Traffic Analysis
 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-00CC00)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1F9AF1?logo=wireshark)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1F9AF1?logo=wireshark&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 - API testing, debugging, and request flow analysis.
 - Traffic inspection and protocol-level diagnostics using Fiddler and Wireshark.
