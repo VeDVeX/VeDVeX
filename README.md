@@ -2,8 +2,6 @@
 
 > Click to switch language / Нажми, чтобы сменить язык
 
----
-
 <details open>
   <summary>🇬🇧 EN </summary>
 
