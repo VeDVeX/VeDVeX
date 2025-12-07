@@ -9,7 +9,7 @@
 
 # 🇬🇧 English Version
 
-## 📦 Core Competencies
+## 🧩 Core Competencies
 
 I specialize in **backend engineering**, **Python development**, **DevOps practices**, **network infrastructure**,  
 **frontend for internal tools**, and **automation**.
@@ -123,7 +123,7 @@ Focus areas:
 
 # 🇷🇺 Русская версия
 
-## 📦 Основные компетенции
+## 🧩 Основные компетенции
 
 Моя специализация — **backend-разработка**, **Python**, **DevOps**, **сетевые технологии**,  
 **frontend для внутренних инструментов**, а также **автоматизация и тестирование**.
